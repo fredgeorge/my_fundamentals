@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Two Buttons</string>
+    <string name="button1text">You clicked Button 1</string>
+    <string name="title_text">Button Clicking</string>
+    <string name="button1label">One</string>
+    <string name="button2label">Two</string>
+    <string name="starting_text">No buttons yet...</string>
+    <string name="button2text">You clicked Button 2</string>
+</resources>
